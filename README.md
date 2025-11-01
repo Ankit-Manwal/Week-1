@@ -94,11 +94,3 @@ A Convolutional Neural Network (CNN) is used:
 ### 💻 Hardware
 - GPU recommended for faster training (optional)
 
----
-
-## 🧰 Installation & Setup
-
-### Step 1: Clone the repository
-```bash
-git clone https://github.com/your-username/Plant-Disease-Detection.git
-cd Plant-Disease-Detection
